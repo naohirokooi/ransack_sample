@@ -1,0 +1,6 @@
+User.create!(name: 'ゴロー' , age: 1 )
+User.create!(name: '泰永' , age:2 )
+User.create(name: 'キヨスケ' , age:9 )
+User.create(name: '成見' , age:120 )
+User.create(name: 'ヨウヘイ' , age:111 )
+User.create(name: 'カン助' , age:99 )

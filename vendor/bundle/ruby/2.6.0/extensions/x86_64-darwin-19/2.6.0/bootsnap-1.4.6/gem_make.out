@@ -1,0 +1,15 @@
+current directory: /Users/nao/Desktop/ransak_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/nao/.rbenv/versions/2.6.5/bin/ruby -I /Users/nao/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200425-13733-49ljru.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nao/Desktop/ransak_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/nao/Desktop/ransak_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/nao/Desktop/ransak_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200425-13733-mxoo8i/bootsnap
